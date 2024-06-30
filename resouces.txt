@@ -1,0 +1,20 @@
+personal notes 
+cli command to run the code:
+g++ --std=c++17 <path>.cpp 
+./a.out
+
+DSA problem notes (google sheet)
+https://docs.google.com/spreadsheets/d/1AoQ6Ae_DqDVwgmVUzSofkfWsKpEMEOetZBY1dt-EkyM/edit#gid=1770794514
+
+
+google guys
+https://www.youtube.com/@vivekgupta3484
+https://www.youtube.com/@techdose4u
+https://www.youtube.com/@WilliamFiset-videos  (https://github.com/williamfiset/algorithms#graph-theory)
+
+
+
+books 
+Competitive Programmer’s Handbook:
+https://cses.fi/book/book.pdf
+
